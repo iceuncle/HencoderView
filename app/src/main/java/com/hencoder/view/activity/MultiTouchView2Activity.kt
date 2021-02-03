@@ -5,9 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import com.hencoder.view.R
 
 
-class MultiTouchActivity1 : AppCompatActivity() {
+class MultiTouchView2Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_multitouch1)
+        setContentView(R.layout.activity_multitouch2)
     }
 }

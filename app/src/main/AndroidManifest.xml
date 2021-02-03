@@ -19,22 +19,22 @@
 
         <activity android:name=".activity.DashboardActivity" />
         <activity android:name=".activity.PieActivity" />
-        <activity android:name=".activity.ScalableActivity" />
+        <activity android:name=".activity.ScalableImageViewActivity" />
         <activity android:name=".activity.TextCustomActivity" />
-        <activity android:name=".activity.CameraActivity" />
+        <activity android:name=".activity.CameraViewActivity" />
         <activity android:name=".activity.CircleAnimationActivity" />
         <activity android:name=".activity.PointFAnimationActivity" />
         <activity android:name=".activity.CameraAnimationActivity" />
         <activity android:name=".activity.ProvinceAnimationActivity" />
-        <activity android:name=".activity.DrawableActivity" />
+        <activity android:name=".activity.DrawableViewActivity" />
         <activity android:name=".activity.MaterialEditTextActivity" />
         <activity android:name=".activity.SquareImageActivity" />
-        <activity android:name=".activity.CircleActivity" />
+        <activity android:name=".activity.CircleViewActivity" />
         <activity android:name=".activity.TagLayoutActivity" />
         <activity android:name=".activity.XfermodeActivity" />
-        <activity android:name=".activity.MultiTouchActivity1" />
-        <activity android:name=".activity.MultiTouchActivity2" />
-        <activity android:name=".activity.MultiTouchActivity3" />
+        <activity android:name=".activity.MultiTouchView1Activity" />
+        <activity android:name=".activity.MultiTouchView2Activity" />
+        <activity android:name=".activity.MultiTouchView3Activity" />
 
     </application>
 

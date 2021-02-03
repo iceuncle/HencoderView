@@ -4,11 +4,10 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.hencoder.view.R
 
-class ScalableActivity : AppCompatActivity() {
 
+class DrawableViewActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_scalable)
+        setContentView(R.layout.activity_drawable)
     }
-
 }

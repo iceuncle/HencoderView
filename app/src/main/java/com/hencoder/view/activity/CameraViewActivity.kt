@@ -5,9 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import com.hencoder.view.R
 
 
-class MultiTouchActivity2 : AppCompatActivity() {
+class CameraViewActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_multitouch2)
+        setContentView(R.layout.activity_camera)
     }
 }
